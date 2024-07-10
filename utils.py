@@ -1,4 +1,5 @@
 import csv
+import random
 import sqlite3
 import logging
 import smtplib
